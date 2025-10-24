@@ -1,0 +1,161 @@
+{
+  "lands": [
+    {
+      "id": 976,
+      "name": "Celestial Park",
+      "rides": [
+        {
+          "id": 14688,
+          "name": "Constellation Carousel",
+          "is_open": true,
+          "wait_time": 35,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14690,
+          "name": "Stardust Racers",
+          "is_open": true,
+          "wait_time": 30,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14740,
+          "name": "Stardust Racers Single Rider",
+          "is_open": true,
+          "wait_time": 0,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "name": "Dark Universe",
+      "rides": [
+        {
+          "id": 14692,
+          "name": "Curse of the Werewolf",
+          "is_open": true,
+          "wait_time": 75,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14698,
+          "name": "Curse of the Werewolf Single Rider",
+          "is_open": true,
+          "wait_time": 0,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14694,
+          "name": "Monsters Unchained: The Frankenstein Experiment",
+          "is_open": true,
+          "wait_time": 45,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": 974,
+      "name": "How to Train Your Dragon \u2014 Isle of Berk",
+      "rides": [
+        {
+          "id": 14693,
+          "name": "Dragon Racer's Rally",
+          "is_open": true,
+          "wait_time": 40,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14691,
+          "name": "Fyre Drill",
+          "is_open": true,
+          "wait_time": 35,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14695,
+          "name": "Hiccup Wing Glider",
+          "is_open": true,
+          "wait_time": 55,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14685,
+          "name": "Meet Toothless and Friends",
+          "is_open": true,
+          "wait_time": 95,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": 973,
+      "name": "SUPER NINTENDO WORLD",
+      "rides": [
+        {
+          "id": 14682,
+          "name": "Bowser Jr. Challenge",
+          "is_open": true,
+          "wait_time": 5,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14683,
+          "name": "Mario Kart\u2122: Bowser's Challenge",
+          "is_open": true,
+          "wait_time": 135,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14684,
+          "name": "Mario Kart\u2122: Bowser's Challenge Single Rider",
+          "is_open": true,
+          "wait_time": 0,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14686,
+          "name": "Mine-Cart Madness\u2122",
+          "is_open": true,
+          "wait_time": 120,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14697,
+          "name": "Mine-Cart Madness\u2122 Single Rider",
+          "is_open": true,
+          "wait_time": 0,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14689,
+          "name": "Yoshi's Adventure\u2122",
+          "is_open": true,
+          "wait_time": 35,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "name": "The Wizarding World of Harry Potter \u2014 Ministry of Magic",
+      "rides": [
+        {
+          "id": 14687,
+          "name": "Harry Potter and the Battle at the Ministry\u2122",
+          "is_open": true,
+          "wait_time": 150,
+          "last_updated": "2025-10-24T19:36:29.000Z"
+        },
+        {
+          "id": 14696,
+          "name": "Harry Potter and the Battle at the Ministry\u2122 Single Rider",
+          "is_open": true,
+          "wait_time": 0,
+          "last_updated": "2025-10-24T17:41:28.000Z"
+        }
+      ]
+    }
+  ],
+  "rides": []
+}
